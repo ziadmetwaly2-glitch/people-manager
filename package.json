@@ -1,0 +1,9 @@
+{
+  "name": "people-manager-cli",
+  "version": "1.0.0",
+  "description": "Manage up to ten people using Node.js, yargs, and JSON",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "yargs": "^17.7.2" },
+  "private": true
+}
